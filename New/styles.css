@@ -1,0 +1,303 @@
+/**
+ * THIS COPYRIGHT NOTICE MUST STAY INTACT FOR FREE USE
+ *
+ * Free template by ClanTemplates.com
+ * Use is permitted only in agreement of the ClanTemplates Terms and Conditions.
+ * For help please read the readme.txt or template_help_text.txt files.
+ *
+ * Template Designed by Andrew06 (http://www.psdshow.com/)
+ * Coded by redSHIFT (http://www.uvshock.co.uk/)
+ */
+
+body
+{
+	background: #656565 url('./images/background.jpg') repeat-x;
+	margin: 34px 0 34px 0;
+	text-align: center;
+	font: 11px "Trebuchet MS", tahoma, verdana, arial, helvetica, sans-serif;
+	color: #ffffff;
+}
+
+a,a:visited
+{
+	color: #e7e7e7;
+}
+
+a img
+{
+	border: 0;
+}
+
+/**
+ * Layout
+ */
+
+div#container
+{
+	width: 975px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#columns
+{
+	background: url('./images/cols_background.jpg') repeat-y;
+	clear: both;
+}
+
+
+.side_col
+{
+	width: 200px;
+	float: left;
+	padding: 1px 1px 1px 2px;
+}
+
+.main_col
+{
+	width: 567px;
+	float: left;
+}
+
+
+
+/**
+ * Anchor (Title, nav, slogan)
+ */
+
+div#anchor
+{
+	background: url('./images/anchor.jpg') no-repeat;
+	height: 74px;
+	margin: 0;
+	clear: both;
+}
+
+	div#anchor h1
+	{
+		font: bold 27px "Trebuchet MS", Arial, Helvetica, Sans-serif;
+		color: #fefefe;
+		text-transform: uppercase;
+		margin: 0;
+		padding: 0;
+		width: 350px;
+		text-align: center;
+		float: left;
+		height: 52px;
+		overflow: hidden;
+	}
+	
+	#anchor ul
+	{
+		list-style-type: none;
+		height: 52px;
+		width: 245px;
+		padding: 0;
+		float: left;
+		overflow: hidden;
+	}
+	
+		#navigation-left
+		{
+			margin: 0 0 0 66px;
+		}
+		#navigation-right
+		{
+			margin: 0 66px 0 0;
+		}
+	
+		#anchor ul li
+		{
+			float: left;
+			margin: 29px 0 0 7px;
+			height: 19px;
+		}
+	
+		#anchor ul li.right
+		{
+			float: right;
+		}
+		
+		#anchor ul li a
+		{
+			display: block;
+			text-decoration: none;
+			height: 19px;
+			overflow: hidden;
+			font: 500 14px "Trebuchet MS";
+			color: #ffffff;
+			text-transform: uppercase;
+			background: url('./images/nav_bg.jpg') repeat-x;
+			padding: 1px 3px 0 3px;
+		}
+	
+	#anchor .notice
+	{
+		height: 19px;
+		text-align: center;
+		color: #00ff0e;
+		padding: 3px 0 0 0;
+		clear: both;
+		font-family: tahoma;
+	}
+	
+
+/**
+ * Banner (banner image, login form)
+ */
+
+#banner
+{
+	background: url('./images/banner.jpg') no-repeat;
+	height: 69px;
+	clear: both;
+}
+
+	#banner form
+	{
+		width: 160px;
+		float: right;
+		padding: 10px 0 0 0;
+	}
+	
+	#banner form input.text
+	{
+		background: url('./images/input_text.jpg') no-repeat;
+		width: 107px;
+		height: 14px;
+		overflow: hidden;
+		border: 0;
+		color: #ffffff;
+		padding: 4px;
+		font: 11px tahoma;
+		margin: 0 0 3px 0;
+		overflow: hidden;
+	}
+	
+	#banner form input.go
+	{
+		background: url('./images/button_go.jpg') no-repeat;
+		width: 31px;
+		height: 22px;
+		border: 0;
+		margin: 1px;
+		overflow: hidden;
+	}
+
+
+/**
+ * Headings, paragraph and text-formatting
+ */
+
+h2
+{
+	background: url('./images/box_head_bg.jpg') repeat-x;
+	margin: 0;
+	padding: 0;
+	height: 25px;
+}
+
+p
+{
+	margin: 0;
+	padding: 5px 0 5px 0;
+}
+
+/** Sponsor Box **/
+
+p.sponsors
+{
+	text-align: center;
+	padding: 0;
+}
+
+/** Server Info Box **/
+
+p.server
+{
+	color: #9e9e9e;
+	background: url('./images/border-bottom.jpg') bottom left repeat-x;
+	padding: 2px;
+}
+
+	p.server b
+	{
+		color: #ffffff;
+	}
+	
+	p.server span.full
+	{
+		color: #ff0000;
+		font-weight: bold;
+	}
+	
+	p.server span.space
+	{
+		color: #00ff00;
+		font-weight: bold;
+	}
+
+
+/**
+ * Main Column (center) Additions
+ */
+
+.main_col h2
+{
+	background: url('./images/news_head.jpg') repeat-x;
+	height: 16px;
+	font-size: 11px;
+	padding: 5px;
+	border-bottom: 1px solid #141414;
+}
+
+	.main_col h2 span
+	{
+		float: right;
+		font-weight: normal;
+	}
+
+.main_col p
+{
+	padding: 10px;
+	color: #9e9e9e;
+}
+
+
+/**
+ * Footer
+ */
+
+div.footer
+{
+	color: #d2d2d2;
+	background: url('./images/footer.jpg') repeat-x;
+	height: 17px;
+	text-align: right;
+	padding: 2px;
+	clear: both;
+}
+
+	div.footer a
+	{
+		text-decoration: none;
+	}
+	
+	div.footer span
+	{
+		float: left;
+	}
+
+/**
+ * Misc
+ */
+
+.clear
+{
+	clear: both;
+}
+
+.center
+{
+	text-align: center;
+}

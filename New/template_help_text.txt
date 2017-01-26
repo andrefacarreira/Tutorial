@@ -1,0 +1,35 @@
+:: Intro
+Thank you for downloading this free template release from www.clantemplates.com if you have any questions, 
+these paragraphs should address them or direct you to where they can be addressed.
+
+There are a few terms-of-use rules you need to follow if you want to use this or any ClanTemplates template 
+but they are simple to follow. The first is that you must keep a link back to ClanTemplates either 
+using a Lead Sponsor image or an affiliate link (dependent upon your template). This must be a hyperlink and 
+must include the ClanTemplates 'C' logo. The second is that you must include any copyright footer that 
+tells you who designed and coded the template. This image (and/or text) should also link to ClanTemplates and 
+must not be edited.
+
+All templates released at clantemplates are coded in html/xhtml &amp; css so that even the most inexperienced 
+individual can understand and edit the template. If you have either Frontpage or Dreamweaver at your disposal 
+these would be recommended for you to easily edit and manage the code of your new website template. Below are 
+3 video tutorials that explain different aspects of how to use a template downloaded from Clantemplates.
+
+@ How to Download & Edit Your Template ~ (http://www.clantemplates.com/video/How_to_DL_and_Edit/How_to_DL_and_Edit.html)
+@ How to make a new page for the template ~ (http://www.clantemplates.com/video/CT_How_to_Make_a_New_Page/CT_How_to_Make_a_New_Page.html)
+@ How to upload your template to a server ~ (http://www.clantemplates.com/video/CT_How_to_Upload/CT_How_to_Upload.html)
+
+
+:: Editing your Template
+
+All templates released at Clantemplates should include blank banner images for you to add your own clans name 
+to in order to personalize the template. Such images are generally included in the images folder which was in 
+the zip file you downloaded and are normally denoted by the word 'blank' in the filename. Other blank images 
+for various parts of a template, may be included in the folder, depending on the template you've downloaded.
+
+:: Getting Help
+
+Any questions that the video tutorials just didn't cover? Well the best place to get the kind of answers you 
+need is to use that template you've downloaded is to submit your question for the Support Staff in the 
+Clantemplates Help Booth (http://forums.clantemplates.com/forumdisplay.php?f=9). Make sure you 
+include the name of the template you downloaded and the category it was in. Any question you may have 
+regarding a template they will be able to answer for you.
